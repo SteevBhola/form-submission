@@ -1,3 +1,4 @@
 Flask
 flask_mail
 reportlab
+xhtml2pdf
